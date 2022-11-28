@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bhavna2302
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning B.E
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing Bachelor of Engineering
 - 📫 How to reach me via email on bhagyashreesolanki2200@gmail.com
 
 <!---
